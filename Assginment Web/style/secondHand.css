@@ -1,0 +1,37 @@
+.wrapBodySecondHandProduct
+{
+    width: 1250px;
+    height: 1050px;
+    margin: 0 auto;
+    /* background-color: goldenrod; */
+}
+.imageSecondHandProduct 
+{
+    width: 1020px;
+    height: 1050px;
+    margin: 0 auto;
+    /* background-color: teal; */
+    float: left; 
+}
+.rightBodySecondHandProduct
+{
+    width: 230px;
+    height: 1050px;
+    margin: 0 auto;
+    /* background-color: darkcyan; */
+    float: right;
+}
+.wrapTablet 
+{
+    width: 1250px;
+    height: 250px;
+    margin: 0 auto;
+}
+.imageTablet 
+{
+    width: 1020px;
+    height: 350px;
+    margin: 0 auto;
+    /* background-color: rebeccapurple; */
+    float: left;
+}

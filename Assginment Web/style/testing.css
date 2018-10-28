@@ -1,0 +1,27 @@
+.wrap2
+{
+    width: 1250px;
+    margin: 0 auto;
+}
+.wrapHeader2
+{
+    width: 1250px;
+    height: 160px;
+    margin: 0 auto;               
+}
+.leftHeader2
+{
+    width: 900px;
+    height: 160px;
+    margin: 0 auto;
+    /* background-color: blueviolet; */
+    float: left;
+}
+.rightHeader2
+{
+    width: 350px;
+    height: 160px;
+    margin: 0 auto;
+    /* background-color: teal; */
+    float: right;
+}

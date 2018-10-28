@@ -1,0 +1,89 @@
+.wrapBodyProduct
+{
+    width: 1250px;
+    height: 250px;
+    margin: 0 auto;
+}
+.titleBody 
+{
+    width: 1005px;
+    height: 50px;
+    margin: 0 auto;
+    /* background-color: darkgoldenrod; */
+    float: left;
+}
+.imageBodyProduct
+{
+    width: 1000px;
+    height: 130px;
+    margin: 0 auto;
+    /* background-color: greenyellow; */
+    float: left;
+}
+.rightBodyProduct
+{
+    width: 210px;
+    height: 300px;
+    margin: 0 auto;
+    /* background-color: darkcyan; */
+    float: right;
+}
+.wrapAllPhone 
+{
+    width: 1250px;
+    height: 1050px;
+    margin: 0 auto;
+    /* background-color: rebeccapurple; */
+}
+.allPhone 
+{
+    width: 1020px;
+    height: 1050px;
+    margin: 0 auto;
+    /* background-color: rebeccapurple; */
+    float: left;
+}
+.rightAllPhone
+{
+    width: 200px;
+    height: 710px;
+    margin: 0 auto;
+    /* background-color: red; */
+    float: right;
+}
+.wrapModel 
+{
+    width: 1250px;
+    height: 700px;
+    margin: 0 auto;
+    /* background-color: rebeccapurple; */
+}
+.allPhoneofModel 
+{
+    width: 1020px;
+    height: 700px;
+    margin: 0 auto;
+    /* background-color: rebeccapurple; */
+    float: left;
+}
+div.gallery2 {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 130px;
+}
+
+div.gallery2:hover {
+    border: 1px solid #777;
+}
+
+div.gallery2 img {
+    width: 100%;
+    /* height: 230px; */
+    /* height: auto; */
+}
+
+div.desc2 {
+    padding: 15px;
+    text-align: center;
+}

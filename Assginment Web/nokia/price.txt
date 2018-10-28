@@ -1,0 +1,9 @@
+Nokia 1 : 84$
+Nokia 2 : 109$
+Nokia 3 : 143$
+Nokia 5 : 193$
+Nokia 6 : 229$
+Nokia 7 plus : 399$
+Nokia 8 : 475$
+Nokia 3310 : 48$
+Nokia 8110 : 64$

@@ -1,0 +1,133 @@
+.wrap
+{
+    width: 1250px;
+    margin: 0 auto;
+}
+.wrapHeader
+{
+    width: 1250px;
+    height: 160px;
+    margin: 0 auto;               
+}
+.leftHeader
+{
+    width: 900px;
+    height: 160px;
+    margin: 0 auto;
+    /* background-color: blueviolet; */
+    float: left;
+}
+.rightHeader
+{
+    width: 350px;
+    height: 160px;
+    margin: 0 auto;
+    /* background-color: teal; */
+    float: right;
+}
+.wrapMenuofiPhone8
+{
+    width: 1250px;
+    height: 80px;
+    margin: 0 auto;              
+}
+.leftMenuofiPhone8
+{
+    width: 900px;
+    height: 80px;
+    margin: 0 auto;
+    /* background-color: tomato; */
+    float: left;
+}
+.rightMenuofiPhone8
+{
+    width: 350px;
+    height: 80px;
+    margin: 0 auto;
+    /* background-color: thistle; */
+    float: right;
+}
+.wrapBodyofiPhone8 
+{
+    width: 1250px;
+    height: 400px;
+    margin: 0 auto;
+}
+.wrapLeftBodyofiPhone8 
+{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    /* background-color: aqua; */
+    float: left;
+}
+.wrapMiddleBodyofiPhone8 
+{
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    /* background-color: red; */
+    float: left;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 80%;
+    border: 1px solid #ddd;
+}
+
+th, td {
+    text-align: left;
+    padding: 16px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+.wrapAnotherDetail 
+{ 
+    width: 1050px; 
+    height: 2760px;
+    margin: 0 auto;
+    /* background-color: greenyellow; */
+    float: left;
+}
+.wrapAnotherDetailofIphoneX 
+{
+    width: 1050px; 
+    height: 2725px;
+    margin: 0 auto;
+    /* background-color: yellow; */
+    float: left;
+}
+.wrapAnotherDetailofSamsung
+{
+    width: 1050px; 
+    height: 2870px;
+    margin: 0 auto;
+    /* background-color: yellow; */
+    float: left;
+}
+.wrapFooter 
+{
+    width: 1250px;
+    height: 350px;
+    margin: 0 auto;
+    /* background-color: goldenrod; */
+    float: left;
+}
+.leftFooter
+{
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+    /* background-color: snow; */
+    float: left;
+}
+.myMoveText 
+{ 
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}

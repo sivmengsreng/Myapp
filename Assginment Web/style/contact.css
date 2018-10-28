@@ -1,0 +1,53 @@
+.wrapMenuContact
+{
+    width: 1250px;
+    height: 80px;
+    margin: 0 auto;              
+}
+.leftMenuContact
+{
+    width: 900px;
+    height: 80px;
+    margin: 0 auto;
+    /* background-color: tomato; */
+    float: left;
+}
+.rightMenuContact
+{
+    width: 350px;
+    height: 80px;
+    margin: 0 auto;
+    /* background-color: thistle; */
+    float: right;
+}
+.wrapMap
+{
+    width: 900px;
+    height: 600px;
+    margin: 0 auto;
+    /* background-color: rebeccapurple; */
+}
+.firstMap 
+{
+    width: 300px;
+    height: 270px;
+    margin: 0 auto;
+    float: left;
+    /* background-color: rosybrown; */
+}
+.secondMap
+{
+    width: 300px;
+    height: 290px;
+    margin: 0 auto;
+    float: left;
+    /* background-color: rosybrown; */
+}
+/* .secondMap
+{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    float: left;
+   
+} */

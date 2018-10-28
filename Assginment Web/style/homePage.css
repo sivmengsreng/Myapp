@@ -1,0 +1,186 @@
+.wrap
+{
+    width: 1250px;
+    margin: 0 auto;
+}
+.wrapHeader
+{
+    width: 1250px;
+    height: 160px;
+    margin: 0 auto;               
+}
+.leftHeader
+{
+    width: 900px;
+    height: 160px;
+    margin: 0 auto;
+    /* background-color: blueviolet; */
+    float: left;
+}
+.rightHeader
+{
+    width: 350px;
+    height: 160px;
+    margin: 0 auto;
+    /* background-color: teal; */
+    float: right;
+}
+.wrapMenu
+{
+    width: 1250px;
+    height: 46px;
+    margin: 0 auto;              
+}
+.leftMenu
+{
+    width: 900px;
+    height: 46px;
+    margin: 0 auto;
+    /* background-color: tomato; */
+    float: left;
+}
+.leftMenuofSecondHand 
+{
+    width: 900px;
+    height: 70px;
+    margin: 0 auto;
+    /* background-color: tomato; */
+    float: left;
+}
+.leftMenuofAccessory 
+{
+    width: 900px;
+    height: 70px;
+    margin: 0 auto;
+    /* background-color: tomato; */
+    float: left;
+}
+.rightMenu
+{
+    width: 350px;
+    height: 46px;
+    margin: 0 auto;
+    /* background-color: thistle; */
+    float: right;
+}
+/* .slide
+{
+    width: 1250px;
+    height: 420px;
+    margin: 0 auto;
+    background-color: violet;
+}  */
+.wrapSpecialOffer
+{
+    width: 1250px;
+    height: 330px;
+    margin: 0 auto;
+}
+.headBody 
+{
+    width: 1005px;
+    height: 50px;
+    margin: 0 auto;
+    /* background-color: darkgoldenrod; */
+    float: left;
+}
+.imageBody 
+{
+    width: 1020px;
+    height: 350px;
+    margin: 0 auto;
+    /* background-color: greenyellow; */
+    float: left;
+}
+.rightBody 
+{
+    width: 210px;
+    height: 280px;
+    margin: 0 auto;
+    /* background-color: darkcyan; */
+    float: right;
+}
+.wrapNewArrival 
+{
+    width: 1250px;
+    height: 300px;
+    margin: 0 auto;
+    /* background-color: rebeccapurple; */
+}
+.newArrivalTitle 
+{
+    width: 1005px;
+    height: 50px;
+    margin: 0 auto;
+    /* background-color: gold; */
+    float: left;
+}
+.newArrivalLeft 
+{
+    width: 1020px;
+    height: 350px;
+    margin: 0 auto;
+    /* background-color: blue; */
+    float: left;
+}
+.newArrivalRight 
+{
+    width: 210px;
+    height: 300px;
+    margin: 0 auto;
+    /* background-color: magenta; */
+    float: right;
+}
+.wrapAccessory
+{ 
+    width: 1250px;
+    height: 400px;
+    margin: 0 auto;
+}
+.accessoryTitle 
+{
+    width: 1005px;
+    height: 50px;
+    margin: 0 auto;
+    /* background-color: gold; */
+    float: left;
+}
+.bodyAccessory 
+{
+    width: 1250px;
+    height: 700px;
+    margin: 0 auto;
+    /* background-color: rebeccapurple;; */
+    float: left;
+}
+.wrapFooter 
+{
+    width: 1250px;
+    height: 400px;
+    margin: 0 auto;
+    /* background-color: #385552; */
+    float: left;
+}
+.leftFooter
+{
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+    /* background-color: #385552; */
+    float: left;
+}
+.myMoveText 
+{ 
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 5px;
+    background-color: #cae8ca;
+    border: 2px solid #4CAF50;
+  }

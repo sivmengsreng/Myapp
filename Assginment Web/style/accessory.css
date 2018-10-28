@@ -1,0 +1,32 @@
+.wrapBodyAccessory
+{
+    width: 1250px;
+    height: 1000px;
+    margin: 0 auto;
+    /* background-color: goldenrod; */
+}
+.imageBestSale
+{
+    width: 1020px;
+    height: 350px;
+    margin: 0 auto;
+    /* background-color: greenyellow; */
+    float: left; 
+}
+.rightBestSale
+{
+    width: 230px;
+    height: 1000px;
+    margin: 0 auto;
+    /* background-color: darkcyan; */
+    float: right;
+}
+.imageAccessory
+{
+    width: 1020px;
+    height: 1050px;
+    margin: 0 auto;
+    /* background-color: red; */
+    float: left;
+
+}
